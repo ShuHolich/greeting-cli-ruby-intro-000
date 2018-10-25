@@ -1,4 +1,4 @@
-puts "Enter your name: "
+name = "Sally"
 name = gets.strip
 
 def greeting(name)
